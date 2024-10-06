@@ -15,7 +15,7 @@ Open your terminal or command prompt and run the following command to clone the 
 
 bash
 Copy code
-git clone [](https://github.com/Harshith-05/Medprompt-AI.git)
+git clone [Clone this repo](https://github.com/Harshith-05/Medprompt-AI.git)
 
 
 Navigate to the Project Directory:
