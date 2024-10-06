@@ -72,3 +72,4 @@ The application will run on http://127.0.0.1:5000/ by default.
 Access the Chatbot:
 
 Open your web browser and navigate to http://127.0.0.1:5000/ to interact with MedPrompt AI. Enter your medical questions, and the chatbot will provide relevant answers based on the preloaded textbook.
+Uploading Untitled and 10 more pages - Personal - Microsoft​ Edge 2024-10-06 17-27-47.mp4…
